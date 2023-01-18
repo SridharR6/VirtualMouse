@@ -1,1 +1,3 @@
 # VirtualMouse
+#opencv
+#python
